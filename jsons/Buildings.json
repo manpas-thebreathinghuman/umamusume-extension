@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Street Performance",
+		"uniqueTo": "Smart Falcon",
+		"replaces": "Monument",
+		"culture": 2,
+		"happiness": 1,
+		"greatPersonPoints": {"Great Artist": 1},
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"uniques": ["Destroyed when the city is captured", "Comment [1 [Great Artist] points]"]
+	}
+]

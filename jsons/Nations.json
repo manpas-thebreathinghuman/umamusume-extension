@@ -1,0 +1,95 @@
+[
+	{
+		"name": "Smart Falcon",
+		"leaderName": "Falco",
+		"adjective": ["Falco"],
+		"preferredVictoryType": "Cultural",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "My name's Smart Falcon, but you can call me Falco! My dream is to become an Umadol! Just let me know if you want my autograph! ☆",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [248, 88, 123],
+		"innerColor": [64, 58, 53],
+		"uniqueName": "Umadol (on dirt)",
+		"uniques": ["[Sword] units gain the [Dirt Aptitude] promotion", "[Gunpowder] units gain the [Dirt Aptitude] promotion", "[Archery] units gain the [Dirt Aptitude] promotion", "[Ranged Gunpowder] units gain the [Dirt Aptitude] promotion"],
+		"uniqueText": "Melee & ranged units gain the [Dirt Aptitude] promotion",
+		"cities": ["SPARKLY☆STARDOM","Creating My Own Destiny ☆", "My Way or the Highway ♪", "A Sentimental Dream", "Top Umadol or Bust ☆", "Cheering in the Spotlight", "Too Much Input!", "IN the Heat of Summer ☆"],
+		"spyNames": ["LOVE☆4EVER","My Umadol Way! ☆","Twilight Triumph","Luminous ☆ Twirler","ギリギリ!?UMA♡DOL","波間のオフショット"]
+	},
+	{
+		"name": "Matikanetannhauser",
+		"leaderName": "Machitan",
+		"adjective": ["Machitan"],
+		"preferredVictoryType": "Cultural",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "Hi, hi, Matikanetannhauser here. I need to train as hard as I can to make sure I don't lose... Huh? Wait, there's no training today?!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [15,141,206],
+		"innerColor": [238,91,86],
+		"uniqueName": "Department Store of Sickness",
+		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion", "[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "Melee & ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["Go, Go, Mun!","Ready, Go!", "A Warm and Fluffy Start", "A Glowing Endorsement", "Yum, Yum, Mun!", "A Long-Awaited Matikane Victory", "Another Lighthearted, Leisurely Day", "Giving It a Spin", "A Warm and Sparkly Summer Camp"],
+		"spyNames": ["Clippety-Tippety-Clop","Just Keep Going","Blue Turbulence","あくもー退散！？","Machitan☆Adventure"]
+	},
+	{
+		"name": "Stay Gold",
+		"leaderName": "Stego",
+		"adjective": ["Stego"],
+		"preferredVictoryType": "Time",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [191,179,62],
+		"innerColor": [73,105,156],
+		"uniqueName": "",
+		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion", "[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "Melee & ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["In Search of Gold", "果てより語るは", "其の名は鈍く輝いて", "此処ではない彼方", "永き始まり", "其れはオアシスへ至る橋", "鞄には好奇心と白紙の地図", "旅は道連れ世は情け、悪路も輝く黄金道"],
+		"spyNames": ["Sunlit Outsider","気まぐれ渡り星"]
+	}
+]
