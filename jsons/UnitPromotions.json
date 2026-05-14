@@ -2,5 +2,9 @@
     {
         "name": "Dirt Aptitude",
         "uniques": ["[+1] Movement <in [Rough terrain] tiles>"]
+    },
+    {
+        "name": "Turf Aptitude",
+        "uniques": ["[+1] Movement <in [Open terrain] tiles>"]
     }
 ]

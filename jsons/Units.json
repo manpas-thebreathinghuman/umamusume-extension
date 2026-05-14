@@ -1,2 +1,30 @@
 [
+    {
+		"name": "Scouts",
+        "uniqueTo": "Stay Gold",
+        "replaces": "Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Scientific Theory",
+        "upgradesTo": "Traveler",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Will not be displayed in Civilopedia"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Traveler",
+        "uniqueTo": "Stay Gold",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 15,
+		"cost": 93,
+		"requiredTech": "Banking",
+		"obsoleteTech": "Atomic Theory",
+		"uniques": ["Invisible to non-adjacent units","Ignores Zone of Control","Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	}
 ]
