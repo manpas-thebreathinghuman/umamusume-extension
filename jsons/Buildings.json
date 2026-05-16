@@ -9,5 +9,10 @@
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"uniques": ["Destroyed when the city is captured", "Comment [1 [Great Artist] points]"]
+	},
+	{
+		"name": "Harikitte Ikou",
+		"uniqueTo": "Kitasan Black",
+		"uniques": ["Unbuildable","Will not be displayed in Civilopedia"]
 	}
 ]

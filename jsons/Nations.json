@@ -128,6 +128,7 @@
 		"leaderName": "Sei",
 		"adjective": ["Sei"],
 		"preferredVictoryType": "Scientific",
+		"startBias": ["Coast"],
 		
 		"declaringWar": "",
 		"attacked": "",
@@ -215,5 +216,67 @@
 		"uniqueText": "Sword, gunpowder, mounted, and armored units gain the [Destruction] promotion\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
 		"cities": ["Thunderstorm Sublation","Terpsichore of the Abyss","ドライジンにライムを一絞り","氷と共に、シェイカーへ","ストロークを利かせてシェーク","シュガーシロップはお好みで","ライムは目覚めの一雫","トニックに刹那のスパイスを","別れと出会いの一杯、その美酒は"],
 		"spyNames": ["Embodiment of Keravnos","With a Twist","Welcome to Umayuru","フォルトゥーナの喝采","ギャラルホルンを磨き上げよ"]
+	},
+	{
+		"name": "Kitasan Black",
+		"leaderName": "Kitasan",
+		"adjective": ["Kitasan"],
+		"preferredVictoryType": "Cultural",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "I'm Kitasan Black. I always do my best to create a festive atmosphere that everyone can enjoy when I race!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [90,96,101],
+		"innerColor": [252,109,49],
+		"uniqueName": "Festival Umamusume",
+		"uniques": ["[+30]% [Culture] [in all cities]<during a Golden Age>","Gain a free [Harikitte Ikou] [in all cities]","[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion","[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "+30% [Culture] in all cities during a Golden Age\nTODO: probably the cheapest culture building\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["Victory Cheer!","Lavish Feast","Becoming Everyone's Joy!","Our Clutch Captain!","My True Strength","Up the Snowy Mountain!","Show Some Festival Spirit!","A Nighttime Call","Crimson Leaves in the Wind","A Smile as Bright as Fireworks"],
+		"spyNames": ["Gilded Shrine to Glory","Fire at My Heels","Jubilant Star・Auspicious Crane","Final Bloom","お助け大将と小さな魔女","2人のバウンス・シャッセ","この先も！"]
+	},
+	{
+		"name": "Tokai Teio",
+		"leaderName": "Teio",
+		"adjective": ["Teio"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "Hey hey! It's Tokai Teio! You might wanna keep an eye on me! Because there's gonna be a new undefeated Triple Crown champion in town!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [51,118,210],
+		"innerColor": [255,153,208],
+		"uniqueName": "Fracture Recovery",
+		"uniques": ["[20] HP when healing<when [Wounded]>","[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion","[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "Extra healing for wounded units when healing\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["Sky-High Teio Step","Certain Victory","Merrymaking Song and Dance","The Invincible Teio!","Most Amazingest","The Sting of Perfection","A Legend Begins","Pacing","Step Up","Two's Company"],
+		"spyNames": ["Peak Joy","Beyond the Horizon","Dream Big!","Step! Smile! Wink!","Dream Butterfly of Purple Clouds","Regal Racers","テイオー・オー・オー！！！","比翼のワルツ","開催☆ハチャメチャGP！","天才的ユートピア"]
 	}
 ]

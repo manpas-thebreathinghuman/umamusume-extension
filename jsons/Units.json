@@ -43,5 +43,20 @@
 		"upgradesTo": "Jet Fighter",
 		"uniques": ["[100]% chance to intercept air attacks", "[+200]% Strength <vs [Bomber] units>","[+50]% Strength <vs [Fighter] units>", "[+150]% Strength <vs [Helicopter] units>"],
 		"attackSound": "machinegun"
+	},
+	{
+		"name": "Professor of Curvature",
+		"uniqueTo": "Kitasan Black",
+		"replaces": "Great Scientist",
+		"unitType": "Civilian",
+		"uniques": [
+            "Can hurry technology research",
+			"[+15]% Strength bonus for [Military] units within [2] tiles",
+			"All adjacent units heal [+5] HP when healing",
+            "Can instantly construct a [Academy] improvement <by consuming this unit>",
+            "Is part of Great Person group [Great Person]",
+            "[This Unit] gets a name from the [Scientist] group",
+            "Great Person - [Science]", "Unbuildable", "Uncapturable"],
+		"movement": 2
 	}
 ]
