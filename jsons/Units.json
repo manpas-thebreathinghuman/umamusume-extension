@@ -26,5 +26,22 @@
 		"uniques": ["Invisible to non-adjacent units","Ignores Zone of Control","Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Grunman F-14 Tomcat",
+		"uniqueTo": "Mayano Top Gun",
+		"replaces": "Fighter",
+		"unitType": "Fighter",
+		"movement": 1,
+		"strength": 45,
+		"rangedStrength": 45,
+		"range": 8,
+		"interceptRange": 8,
+		"cost": 375,
+		"requiredTech": "Radar",
+		"requiredResource": "Oil",
+		"upgradesTo": "Jet Fighter",
+		"uniques": ["[100]% chance to intercept air attacks", "[+200]% Strength <vs [Bomber] units>","[+50]% Strength <vs [Fighter] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"attackSound": "machinegun"
 	}
 ]

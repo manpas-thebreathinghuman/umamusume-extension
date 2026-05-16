@@ -26,7 +26,7 @@
 		"innerColor": [64, 58, 53],
 		"uniqueName": "Umadol (on dirt)",
 		"uniques": ["[Sword] units gain the [Dirt Aptitude] promotion", "[Gunpowder] units gain the [Dirt Aptitude] promotion", "[Archery] units gain the [Dirt Aptitude] promotion", "[Ranged Gunpowder] units gain the [Dirt Aptitude] promotion"],
-		"uniqueText": "Melee & ranged units gain the [Dirt Aptitude] promotion",
+		"uniqueText": "Basic Melee and ranged units gain the [Dirt Aptitude] promotion",
 		"cities": ["SPARKLY☆STARDOM","α-star*","Forward March!","Creating My Own Destiny ☆", "My Way or the Highway ♪", "A Sentimental Dream", "Top Umadol or Bust ☆", "Cheering in the Spotlight", "Too Much Input!", "IN the Heat of Summer ☆"],
 		"spyNames": ["LOVE☆4EVER","My Umadol Way! ☆","Twilight Triumph","Luminous ☆ Twirler","ギリギリ!?UMA♡DOL","波間のオフショット"]
 	},
@@ -57,7 +57,7 @@
 		"innerColor": [238,91,86],
 		"uniqueName": "Department Store of Sickness",
 		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion", "[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
-		"uniqueText": "Melee & ranged units gain the [Turf Aptitude] promotion",
+		"uniqueText": "Basic Melee and ranged units gain the [Turf Aptitude] promotion",
 		"cities": ["Go, Go, Mun!","Ready, Go!","Rolling Power Drive!","A Warm and Fluffy Start", "A Glowing Endorsement", "Yum, Yum, Mun!", "A Long-Awaited Matikane Victory", "Another Lighthearted, Leisurely Day", "Giving It a Spin", "A Warm and Sparkly Summer Camp"],
 		"spyNames": ["Clippety-Tippety-Clop","Just Keep Going","Blue Turbulence","あくもー退散！？","Machitan☆Adventure"]
 	},
@@ -88,7 +88,7 @@
 		"innerColor": [73,105,156],
 		"uniqueName": "",
 		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion", "[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
-		"uniqueText": "Melee & ranged units gain the [Turf Aptitude] promotion",
+		"uniqueText": "Basic Melee and ranged units gain the [Turf Aptitude] promotion",
 		"cities": ["In Search of Gold", "果てより語るは", "其の名は鈍く輝いて", "此処ではない彼方", "永き始まり", "其れはオアシスへ至る橋", "鞄には好奇心と白紙の地図", "旅は道連れ世は情け、悪路も輝く黄金道"],
 		"spyNames": ["Sunlit Outsider","気まぐれ渡り星"]
 	},
@@ -119,7 +119,7 @@
 		"innerColor": [198,49,75],
 		"uniqueName": "Behold Thine Emperor's Divine Might",
 		"uniques": ["[+20]% [Food]<in [Capital] cities>","[+20]% [Production]<in [Capital] cities>","[Sword] units gain the [Turf Aptitude] promotion","[+10]% City Strength from defensive buildings<in [Capital] cities>","[Gunpowder] units gain the [Turf Aptitude] promotion", "[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
-		"uniqueText": "+20% [Food] in Capital cities\n+20% [Production] in Capital cities\n[+10]% City Strength from defensive buildings<in [Capital] cities>\nMelee & ranged units gain the [Turf Aptitude] promotion",
+		"uniqueText": "+20% [Food] in Capital cities\n+20% [Production] in Capital cities\n[+10]% City Strength from defensive buildings in [Capital] cities\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
 		"cities": ["Behold Thine Emperor's Divine Might","Arrows Whistle, Shadows Disperse","Vying for the Throne","A Fish out of Water","A Smile Worth a Thousand Words","On the Same Wavelength","One Step at a Time","Friendship Is a Bridge","Work Hard, Play Hard"],
 		"spyNames": ["Emperor's Path","Archer by Moonlight","Enchaînement","放課後、君が笑った","絶対皇帝","Esteemed and Adored","雲煙飛動"]
 	},
@@ -150,8 +150,70 @@
 		"innerColor": [244,218,64],
 		"uniqueName": "Angling and Scheming",
 		"uniques": ["[+1 Happiness, +2 Culture, +2 Food] from every [Fishing Boats]","[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion", "[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
-		"uniqueText": "[+1 Happiness, +2 Culture, +2 Food] from every [Fishing Boats]\nMelee & ranged units gain the [Turf Aptitude] promotion",
+		"uniqueText": "[+1 Happiness, +2 Culture, +2 Food] from every [Fishing Boats]\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
 		"cities": ["Angling and Scheming","Break It Down!","A Cloud in the Blue Sky","Veiled in Cloud Cover","Fishing on Cloud Nine","Going for the Big Catch ☆","A Treat for Your Troubles","Kitty Combo","Partners in Crime"],
 		"spyNames": ["Reeling in the Big One","Soirée des Chatons","Foolproof Plan","Paint the Sky Red","ゆるっと、まにまに","幸福の匂いにまどろむ"]
+	},
+	{
+		"name": "Mayano Top Gun",
+		"leaderName": "Mayano",
+		"adjective": ["Mayano"],
+		"preferredVictoryType": "Scientific",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "I'm Maya, heh heh! ☆ I love all things exciting! The thrill of adrenaline's the best! ♪ Nice to meet ya!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [245,125,56],
+		"innerColor": [255,200,69],
+		"uniqueName": "",
+		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion", "[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "Basic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["Flashy☆Landing","1st Place Kiss☆","Flowery☆Maneuver","HOP STEP♪LOCK ON!","Scramble the Prodigy!","Preflight Troubles?","It's Time for Takeoff☆","The Runway is Clear!","Barrel Rolls Over Homework☆","Our Blue Beluga","Spread Your Wings and Fly!"],
+		"spyNames": ["Scarmble☆Zone","Sunlight Bouquet","Cute + Cute = ?","Party Formation","Rocking☆MewMeow","Chill chill night*"]
+	},
+	{
+		"name": "Tanino Gimlet",
+		"leaderName": "Gimlet",
+		"adjective": ["Gimlet"],
+		"preferredVictoryType": "Domination",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [218,182,16],
+		"innerColor": [23,48,97],
+		"uniqueName": "God of Destruction",
+		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion","[Sword] units gain the [Destruction] promotion", "[Gunpowder] units gain the [Destruction] promotion", "[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion", "[Mounted] units gain the [Destruction] promotion", "[Armored] units gain the [Destruction] promotion"],
+		"uniqueText": "Sword, gunpowder, mounted, and armored units gain the [Destruction] promotion\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["Thunderstorm Sublation","Terpsichore of the Abyss","ドライジンにライムを一絞り","氷と共に、シェイカーへ","ストロークを利かせてシェーク","シュガーシロップはお好みで","ライムは目覚めの一雫","トニックに刹那のスパイスを","別れと出会いの一杯、その美酒は"],
+		"spyNames": ["Embodiment of Keravnos","With a Twist","Welcome to Umayuru","フォルトゥーナの喝采","ギャラルホルンを磨き上げよ"]
 	}
 ]

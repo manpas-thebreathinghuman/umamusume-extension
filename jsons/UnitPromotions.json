@@ -6,5 +6,9 @@
     {
         "name": "Turf Aptitude",
         "uniques": ["[+1] Movement <in [Open terrain] tiles>"]
+    },
+    {
+        "name": "Destruction",
+        "uniques": ["[+33]% Strength <vs cities>"]
     }
 ]
