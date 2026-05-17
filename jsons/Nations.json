@@ -274,8 +274,8 @@
 		"outerColor": [51,118,210],
 		"innerColor": [255,153,208],
 		"uniqueName": "Fracture Recovery",
-		"uniques": ["[20] HP when healing<when [Wounded]>","[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion","[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
-		"uniqueText": "Extra healing for wounded units when healing\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"uniques": ["[20] HP when healing<when [Wounded]>","[+25]% Strength<for [Wounded] units>","[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion","[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "Extra healing for wounded units when healing\n+25% Strength for Wounded units\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
 		"cities": ["Sky-High Teio Step","Certain Victory","Merrymaking Song and Dance","The Invincible Teio!","Most Amazingest","The Sting of Perfection","A Legend Begins","Pacing","Step Up","Two's Company"],
 		"spyNames": ["Peak Joy","Beyond the Horizon","Dream Big!","Step! Smile! Wink!","Dream Butterfly of Purple Clouds","Regal Racers","テイオー・オー・オー！！！","比翼のワルツ","開催☆ハチャメチャGP！","天才的ユートピア"]
 	}

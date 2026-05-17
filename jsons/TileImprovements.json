@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Hachimi Stand",
+		"uniqueTo": "Tokai Teio",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland"],
+        "gold": 1,
+        "culture": 1,
+        "food": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Guilds",
+        "uniques": ["Must be next to [Forest]"],
+        "shortcutKey": "H"
+    }
+]

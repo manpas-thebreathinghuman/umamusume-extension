@@ -11,3 +11,17 @@ NationIcons/Smart Falcon
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Tokai Teio
+  rotate: false
+  xy: 2, 109
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Hachimi Stand
+  rotate: false
+  xy: 104, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
