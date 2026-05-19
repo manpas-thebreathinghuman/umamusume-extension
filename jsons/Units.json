@@ -58,5 +58,21 @@
             "[This Unit] gets a name from the [Scientist] group",
             "Great Person - [Science]", "Unbuildable", "Uncapturable"],
 		"movement": 2
+	},
+	{
+		"name": "Sumo Wrestler",
+		"uniqueTo": "Hishi Akebono",
+		"replaces": "Swordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 14,
+		"cost": 90,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"hurryCostModifier": 20,
+		"promotions": ["Sumo Wrestler"],
+		"uniques": ["[+50]% Strength<after discovering [Steel]>","Comment [Obseletes at [Gunpowder]]"],
+		"attackSound": "metalhit"
 	}
 ]

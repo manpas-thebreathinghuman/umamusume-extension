@@ -278,5 +278,67 @@
 		"uniqueText": "Extra healing for wounded units when healing\n+25% Strength for Wounded units\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
 		"cities": ["Sky-High Teio Step","Certain Victory","Merrymaking Song and Dance","The Invincible Teio!","Most Amazingest","The Sting of Perfection","A Legend Begins","Pacing","Step Up","Two's Company"],
 		"spyNames": ["Peak Joy","Beyond the Horizon","Dream Big!","Step! Smile! Wink!","Dream Butterfly of Purple Clouds","Regal Racers","テイオー・オー・オー！！！","比翼のワルツ","開催☆ハチャメチャGP！","天才的ユートピア"]
+	},
+	{
+		"name": "T.M. Opera O",
+		"leaderName": "Ope",
+		"adjective": ["Ope"],
+		"preferredVictoryType": "Cultural",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "Muahahaha! Feast your eyes upon your beautiful and powerful Overlord, T.M. Opera O! My legend... begins now!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [242,113,196],
+		"innerColor": [251,228,21],
+		"uniqueName": "",
+		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion","[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "Basic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["This Dance is For Vittoria!","Barcarole of Blessings","Conquering the Road to Victory","Uncertain Étude","Dialogue of Clarity","Still in Prelude","Stormy Matinée","My Shining Journée","And Now, Our Soirée"],
+		"spyNames": ["O Sole Sou!","New Year, Same Radiance!","偉大なるフォトグラフィーア","All'alba vincerò!","王を統べて覇す者"]
+	},
+	{
+		"name": "Hishi Akebono",
+		"leaderName": "Bono",
+		"adjective": ["Bono"],
+		"preferredVictoryType": "Time",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "Buono, buono! ♪ Hishi Akebono here! ☆ Whether it's cooking or racing, I put a little bit of love into everything I do!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [32,139,205],
+		"innerColor": [250,111,139],
+		"uniqueName": "Big Chanko",
+		"uniques": ["[+1 Food] from [Bananas] tiles [in all cities]","[+1 Food] from [Cattle] tiles [in all cities]","[+1 Food] from [Deer] tiles [in all cities]","[+1 Food] from [Fish] tiles [in all cities]","[+1 Food] from [Sheep] tiles [in all cities]","[+1 Food] from [Wheat] tiles [in all cities]","All newly-trained [Sword] units [in Capital] receive the [Medic] promotion","[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion","[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "+1 Food for every bonus resource that gives food\nfree [Medic] promotion for Sword units made in the capital\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["YUMMY☆SPEED!","Sugar Parade: Start!","A Giant GOddess","Big, Tough, and Super Buono! ☆","Memories of Chanko","Indulging in Big Dreams","Thanks for the Food!","A True Chanko","The Final Touch"],
+		"spyNames": ["Buono ☆ Alla Moda","Who Wants the First Bite?","Magic Night Garland","フォンデンテで笑って","甘～い浮き輪を召し上がれ"]
 	}
 ]

@@ -10,5 +10,9 @@
     {
         "name": "Destruction",
         "uniques": ["[+33]% Strength <vs cities>"]
+    },
+    {
+        "name": "Sumo Wrestler",
+        "uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles"]
     }
 ]
