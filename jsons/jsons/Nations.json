@@ -1,0 +1,344 @@
+[
+	{
+		"name": "Smart Falcon",
+		"leaderName": "Falco",
+		"adjective": ["Falco"],
+		"preferredVictoryType": "Cultural",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "My name's Smart Falcon, but you can call me Falco! My dream is to become an Umadol! Just let me know if you want my autograph! ☆",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [248, 88, 123],
+		"innerColor": [64, 58, 53],
+		"uniqueName": "Umadol (on dirt)",
+		"uniques": ["[Sword] units gain the [Dirt Aptitude] promotion", "[Gunpowder] units gain the [Dirt Aptitude] promotion", "[Archery] units gain the [Dirt Aptitude] promotion", "[Ranged Gunpowder] units gain the [Dirt Aptitude] promotion"],
+		"uniqueText": "Basic Melee and ranged units gain the [Dirt Aptitude] promotion",
+		"cities": ["SPARKLY☆STARDOM","α-star*","Forward March!","Creating My Own Destiny ☆", "My Way or the Highway ♪", "A Sentimental Dream", "Top Umadol or Bust ☆", "Cheering in the Spotlight", "Too Much Input!", "In the Heat of Summer ☆"],
+		"spyNames": ["LOVE☆4EVER","My Umadol Way! ☆","Twilight Triumph","Luminous ☆ Twirler","ギリギリ!?UMA♡DOL","波間のオフショット"]
+	},
+	{
+		"name": "Matikanetannhauser",
+		"leaderName": "Machitan",
+		"adjective": ["Machitan"],
+		"preferredVictoryType": "Cultural",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "Hi, hi, Matikanetannhauser here. I need to train as hard as I can to make sure I don't lose... Huh? Wait, there's no training today?!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [15,141,206],
+		"innerColor": [238,91,86],
+		"uniqueName": "Department Store of Sickness",
+		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion", "[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "Basic Melee and ranged units gain the [Turf Aptitude] promotion\n[Hospital] spawn the creature",
+		"cities": ["Go, Go, Mun!","Ready, Go!","Rolling Power Drive!","A Warm and Fluffy Start", "A Glowing Endorsement", "Yum, Yum, Mun!", "A Long-Awaited Matikane Victory", "Another Lighthearted, Leisurely Day", "Giving It a Spin", "A Warm and Sparkly Summer Camp"],
+		"spyNames": ["Clippety-Tippety-Clop","Just Keep Going","Blue Turbulence","あくもー退散！？","Machitan☆Adventure"]
+	},
+	{
+		"name": "Stay Gold",
+		"leaderName": "Stego",
+		"adjective": ["Stego"],
+		"preferredVictoryType": "Time",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [191,179,62],
+		"innerColor": [73,105,156],
+		"uniqueName": "",
+		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion", "[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "Basic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["In Search of Gold", "果てより語るは", "其の名は鈍く輝いて", "此処ではない彼方", "永き始まり", "其れはオアシスへ至る橋", "鞄には好奇心と白紙の地図", "旅は道連れ世は情け、悪路も輝く黄金道"],
+		"spyNames": ["Sunlit Outsider","気まぐれ渡り星"]
+	},
+	{
+		"name": "Symboli Rudolf",
+		"leaderName": "Rudolf",
+		"adjective": ["Rudolf"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "I am Symboli Rudolf. I hold the honor of being the \"Emperor\" who seeks to help all Umamusume reach their true potential. Together, let us forge a path to honor and glory!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [28,119,99],
+		"innerColor": [198,49,75],
+		"uniqueName": "Behold Thine Emperor's Divine Might",
+		"uniques": ["[+20]% [Food]<in [Capital] cities>","[+20]% [Production]<in [Capital] cities>","[Sword] units gain the [Turf Aptitude] promotion","[+10]% City Strength from defensive buildings<in [Capital] cities>","[Gunpowder] units gain the [Turf Aptitude] promotion", "[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "+20% [Food] in Capital cities\n+20% [Production] in Capital cities\n[+10]% City Strength from defensive buildings in [Capital] cities\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["Behold Thine Emperor's Divine Might","Arrows Whistle, Shadows Disperse","Vying for the Throne","A Fish out of Water","A Smile Worth a Thousand Words","On the Same Wavelength","One Step at a Time","Friendship Is a Bridge","Work Hard, Play Hard"],
+		"spyNames": ["Emperor's Path","Archer by Moonlight","Enchaînement","放課後、君が笑った","絶対皇帝","Esteemed and Adored","雲煙飛動"]
+	},
+	{
+		"name": "Seiun Sky",
+		"leaderName": "Sei",
+		"adjective": ["Sei"],
+		"preferredVictoryType": "Scientific",
+		"startBias": ["Coast"],
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "Hello. I'm Seiun Sky. I'm just taking things as they come. Good things come to those who wait, you know?",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [101,210,131],
+		"innerColor": [244,218,64],
+		"uniqueName": "Angling and Scheming",
+		"uniques": ["[+1 Happiness, +2 Culture, +2 Food] from every [Fishing Boats]","[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion", "[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "[+1 Happiness, +2 Culture, +2 Food] from every [Fishing Boats]\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["Angling and Scheming","Break It Down!","A Cloud in the Blue Sky","Veiled in Cloud Cover","Fishing on Cloud Nine","Going for the Big Catch ☆","A Treat for Your Troubles","Kitty Combo","Partners in Crime"],
+		"spyNames": ["Reeling in the Big One","Soirée des Chatons","Foolproof Plan","Paint the Sky Red","ゆるっと、まにまに","幸福の匂いにまどろむ"]
+	},
+	{
+		"name": "Mayano Top Gun",
+		"leaderName": "Mayano",
+		"adjective": ["Mayano"],
+		"preferredVictoryType": "Scientific",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "I'm Maya, heh heh! ☆ I love all things exciting! The thrill of adrenaline's the best! ♪ Nice to meet ya!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [245,125,56],
+		"innerColor": [255,200,69],
+		"uniqueName": "",
+		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion", "[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "Basic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["Flashy☆Landing","1st Place Kiss☆","Flowery☆Maneuver","HOP STEP♪LOCK ON!","Scramble the Prodigy!","Preflight Troubles?","It's Time for Takeoff☆","The Runway is Clear!","Barrel Rolls Over Homework☆","Our Blue Beluga","Spread Your Wings and Fly!"],
+		"spyNames": ["Scarmble☆Zone","Sunlight Bouquet","Cute + Cute = ?","Party Formation","Rocking☆MewMeow","Chill chill night*"]
+	},
+	{
+		"name": "Tanino Gimlet",
+		"leaderName": "Gimlet",
+		"adjective": ["Gimlet"],
+		"preferredVictoryType": "Domination",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [218,182,16],
+		"innerColor": [23,48,97],
+		"uniqueName": "God of Destruction",
+		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion","[Sword] units gain the [Destruction] promotion", "[Gunpowder] units gain the [Destruction] promotion", "[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion", "[Mounted] units gain the [Destruction] promotion", "[Armored] units gain the [Destruction] promotion"],
+		"uniqueText": "Sword, gunpowder, mounted, and armored units gain the [Destruction] promotion\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["Thunderstorm Sublation","Terpsichore of the Abyss","ドライジンにライムを一絞り","氷と共に、シェイカーへ","ストロークを利かせてシェーク","シュガーシロップはお好みで","ライムは目覚めの一雫","トニックに刹那のスパイスを","別れと出会いの一杯、その美酒は"],
+		"spyNames": ["Embodiment of Keravnos","With a Twist","Welcome to Umayuru","フォルトゥーナの喝采","ギャラルホルンを磨き上げよ"]
+	},
+	{
+		"name": "Kitasan Black",
+		"leaderName": "Kitasan",
+		"adjective": ["Kitasan"],
+		"preferredVictoryType": "Cultural",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "I'm Kitasan Black. I always do my best to create a festive atmosphere that everyone can enjoy when I race!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [90,96,101],
+		"innerColor": [252,109,49],
+		"uniqueName": "Festival Umamusume",
+		"uniques": ["[+30]% [Culture] [in all cities]<during a Golden Age>","Gain a free [Harikitte Ikou] [in all cities]","[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion","[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "+30% [Culture] in all cities during a Golden Age\nTODO: probably the cheapest culture building\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["Victory Cheer!","Lavish Feast","Becoming Everyone's Joy!","Our Clutch Captain!","My True Strength","Up the Snowy Mountain!","Show Some Festival Spirit!","A Nighttime Call","Crimson Leaves in the Wind","A Smile as Bright as Fireworks"],
+		"spyNames": ["Gilded Shrine to Glory","Fire at My Heels","Jubilant Star・Auspicious Crane","Final Bloom","お助け大将と小さな魔女","2人のバウンス・シャッセ","この先も！"]
+	},
+	{
+		"name": "Tokai Teio",
+		"leaderName": "Teio",
+		"adjective": ["Teio"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "Hey hey! It's Tokai Teio! You might wanna keep an eye on me! Because there's gonna be a new undefeated Triple Crown champion in town!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [51,118,210],
+		"innerColor": [255,153,208],
+		"uniqueName": "Fracture Recovery",
+		"uniques": ["[20] HP when healing<when [Wounded]>","[+25]% Strength<for [Wounded] units>","[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion","[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "Extra healing for wounded units when healing\n+25% Strength for Wounded units\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["Sky-High Teio Step","Certain Victory","Merrymaking Song and Dance","The Invincible Teio!","Most Amazingest","The Sting of Perfection","A Legend Begins","Pacing","Step Up","Two's Company"],
+		"spyNames": ["Peak Joy","Beyond the Horizon","Dream Big!","Step! Smile! Wink!","Dream Butterfly of Purple Clouds","Regal Racers","テイオー・オー・オー！！！","比翼のワルツ","開催☆ハチャメチャGP！","天才的ユートピア"]
+	},
+	{
+		"name": "T.M. Opera O",
+		"leaderName": "Ope",
+		"adjective": ["Ope"],
+		"preferredVictoryType": "Cultural",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "Muahahaha! Feast your eyes upon your beautiful and powerful Overlord, T.M. Opera O! My legend... begins now!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [242,113,196],
+		"innerColor": [251,228,21],
+		"uniqueName": "",
+		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion","[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "Basic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["This Dance is For Vittoria!","Barcarole of Blessings","Conquering the Road to Victory","Uncertain Étude","Dialogue of Clarity","Still in Prelude","Stormy Matinée","My Shining Journée","And Now, Our Soirée"],
+		"spyNames": ["O Sole Sou!","New Year, Same Radiance!","偉大なるフォトグラフィーア","All'alba vincerò!","王を統べて覇す者"]
+	},
+	{
+		"name": "Hishi Akebono",
+		"leaderName": "Bono",
+		"adjective": ["Bono"],
+		"preferredVictoryType": "Time",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "Buono, buono! ♪ Hishi Akebono here! ☆ Whether it's cooking or racing, I put a little bit of love into everything I do!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [250,111,139],
+		"innerColor": [32,139,205],
+		"uniqueName": "Big Chanko",
+		"uniques": ["[+1 Food] from [Bananas] tiles [in all cities]","[+1 Food] from [Cattle] tiles [in all cities]","[+1 Food] from [Deer] tiles [in all cities]","[+1 Food] from [Fish] tiles [in all cities]","[+1 Food] from [Sheep] tiles [in all cities]","[+1 Food] from [Wheat] tiles [in all cities]","All newly-trained [Sword] units [in Capital] receive the [Medic] promotion","[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion","[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "+1 Food for every bonus resource that gives food\nfree [Medic] promotion for Sword units made in the capital\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["YUMMY☆SPEED!","Sugar Parade: Start!","A Giant Goddess","Big, Tough, and Super Buono! ☆","Memories of Chanko","Indulging in Big Dreams","Thanks for the Food!","A True Chanko","The Final Touch"],
+		"spyNames": ["Buono ☆ Alla Moda","Who Wants the First Bite?","Magic Night Garland","フォンデンテで笑って","甘～い浮き輪を召し上がれ"]
+	}
+]

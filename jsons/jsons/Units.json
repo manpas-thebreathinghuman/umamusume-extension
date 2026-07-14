@@ -1,0 +1,87 @@
+[
+    {
+		"name": "Scouts",
+        "uniqueTo": "Stay Gold",
+        "replaces": "Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Scientific Theory",
+        "upgradesTo": "Traveler",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Will not be displayed in Civilopedia"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Traveler",
+        "uniqueTo": "Stay Gold",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 15,
+		"cost": 93,
+		"requiredTech": "Banking",
+		"obsoleteTech": "Atomic Theory",
+		"uniques": ["Invisible to non-adjacent units","Ignores Zone of Control","Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Grunman F-14 Tomcat",
+		"uniqueTo": "Mayano Top Gun",
+		"replaces": "Fighter",
+		"unitType": "Fighter",
+		"movement": 1,
+		"strength": 45,
+		"rangedStrength": 45,
+		"range": 8,
+		"interceptRange": 8,
+		"cost": 375,
+		"requiredTech": "Radar",
+		"requiredResource": "Oil",
+		"upgradesTo": "Jet Fighter",
+		"uniques": ["[100]% chance to intercept air attacks", "[+200]% Strength <vs [Bomber] units>","[+50]% Strength <vs [Fighter] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Professor of Curvature",
+		"uniqueTo": "Kitasan Black",
+		"replaces": "Great Scientist",
+		"unitType": "Civilian",
+		"uniques": [
+            "Can hurry technology research",
+			"[+15]% Strength bonus for [Military] units within [2] tiles",
+			"All adjacent units heal [+5] HP when healing",
+            "Can instantly construct a [Academy] improvement <by consuming this unit>",
+            "Is part of Great Person group [Great Person]",
+            "[This Unit] gets a name from the [Scientist] group",
+            "Great Person - [Science]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+	{
+		"name": "Sumo Wrestler",
+		"uniqueTo": "Hishi Akebono",
+		"replaces": "Swordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 14,
+		"cost": 90,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"hurryCostModifier": 20,
+		"promotions": ["Sumo Wrestler"],
+		"uniques": ["[+50]% Strength<after discovering [Steel]>","Comment [Obseletes at [Gunpowder]]"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Mambo",
+		"uniqueTo": "Matikanetannhauser",
+		"unitType": "Creature",
+		"movement": 3,
+		"strength": 34,
+		"promotions": ["Mambo, Mambo~"],
+		"uniques": ["Unbuildable", "Will not be displayed in Civilopedia"]
+	}
+]
