@@ -14,5 +14,26 @@
 		"name": "Harikitte Ikou",
 		"uniqueTo": "Kitasan Black",
 		"uniques": ["Unbuildable","Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Hospita1",
+		"uniqueTo": "Matikanetannhauser",
+		"replaces": "Hospital",
+		"food": 5,
+		"requiredBuilding": "Aqueduct",
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"requiredTech": "Biology",
+		"uniques": ["Will not be displayed in Civilopedia", "Free [Mambo] appears"]
+	},
+	{
+		"name": "Ramen Stall",
+		"uniqueTo": "Fine Motion",
+		"replaces": "Mint",
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"cost": 70,
+		"gold": 1,
+		"percentStatBonus": {"happiness": 5}
 	}
 ]

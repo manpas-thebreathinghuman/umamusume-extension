@@ -74,5 +74,14 @@
 		"promotions": ["Sumo Wrestler"],
 		"uniques": ["[+50]% Strength<after discovering [Steel]>","Comment [Obseletes at [Gunpowder]]"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Mambo",
+		"uniqueTo": "Matikanetannhauser",
+		"unitType": "Creature",
+		"movement": 3,
+		"strength": 34,
+		"promotions": ["Mambo, Mambo~"],
+		"uniques": ["Unbuildable", "Will not be displayed in Civilopedia"]
 	}
 ]

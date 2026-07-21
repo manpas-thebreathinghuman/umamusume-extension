@@ -27,13 +27,13 @@
 		"uniqueName": "Umadol (on dirt)",
 		"uniques": ["[Sword] units gain the [Dirt Aptitude] promotion", "[Gunpowder] units gain the [Dirt Aptitude] promotion", "[Archery] units gain the [Dirt Aptitude] promotion", "[Ranged Gunpowder] units gain the [Dirt Aptitude] promotion"],
 		"uniqueText": "Basic Melee and ranged units gain the [Dirt Aptitude] promotion",
-		"cities": ["SPARKLY☆STARDOM","α-star*","Forward March!","Creating My Own Destiny ☆", "My Way or the Highway ♪", "A Sentimental Dream", "Top Umadol or Bust ☆", "Cheering in the Spotlight", "Too Much Input!", "IN the Heat of Summer ☆"],
+		"cities": ["SPARKLY☆STARDOM","α-star*","Forward March!","Creating My Own Destiny ☆", "My Way or the Highway ♪", "A Sentimental Dream", "Top Umadol or Bust ☆", "Cheering in the Spotlight", "Too Much Input!", "In the Heat of Summer ☆"],
 		"spyNames": ["LOVE☆4EVER","My Umadol Way! ☆","Twilight Triumph","Luminous ☆ Twirler","ギリギリ!?UMA♡DOL","波間のオフショット"]
 	},
 	{
 		"name": "Matikanetannhauser",
-		"leaderName": "Tannhauser",
-		"adjective": ["Tannhauser"],
+		"leaderName": "Machitan",
+		"adjective": ["Machitan"],
 		"preferredVictoryType": "Cultural",
 		
 		"declaringWar": "",
@@ -57,7 +57,7 @@
 		"innerColor": [238,91,86],
 		"uniqueName": "Department Store of Sickness",
 		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion", "[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
-		"uniqueText": "Basic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"uniqueText": "Basic Melee and ranged units gain the [Turf Aptitude] promotion\n[Hospital] spawn the creature",
 		"cities": ["Go, Go, Mun!","Ready, Go!","Rolling Power Drive!","A Warm and Fluffy Start", "A Glowing Endorsement", "Yum, Yum, Mun!", "A Long-Awaited Matikane Victory", "Another Lighthearted, Leisurely Day", "Giving It a Spin", "A Warm and Sparkly Summer Camp"],
 		"spyNames": ["Clippety-Tippety-Clop","Just Keep Going","Blue Turbulence","あくもー退散！？","Machitan☆Adventure"]
 	},
@@ -333,12 +333,43 @@
 		"afterPeace": "",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [32,139,205],
-		"innerColor": [250,111,139],
+		"outerColor": [250,111,139],
+		"innerColor": [32,139,205],
 		"uniqueName": "Big Chanko",
 		"uniques": ["[+1 Food] from [Bananas] tiles [in all cities]","[+1 Food] from [Cattle] tiles [in all cities]","[+1 Food] from [Deer] tiles [in all cities]","[+1 Food] from [Fish] tiles [in all cities]","[+1 Food] from [Sheep] tiles [in all cities]","[+1 Food] from [Wheat] tiles [in all cities]","All newly-trained [Sword] units [in Capital] receive the [Medic] promotion","[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion","[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
 		"uniqueText": "+1 Food for every bonus resource that gives food\nfree [Medic] promotion for Sword units made in the capital\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
-		"cities": ["YUMMY☆SPEED!","Sugar Parade: Start!","A Giant GOddess","Big, Tough, and Super Buono! ☆","Memories of Chanko","Indulging in Big Dreams","Thanks for the Food!","A True Chanko","The Final Touch"],
+		"cities": ["YUMMY☆SPEED!","Sugar Parade: Start!","A Giant Goddess","Big, Tough, and Super Buono! ☆","Memories of Chanko","Indulging in Big Dreams","Thanks for the Food!","A True Chanko","The Final Touch"],
 		"spyNames": ["Buono ☆ Alla Moda","Who Wants the First Bite?","Magic Night Garland","フォンデンテで笑って","甘～い浮き輪を召し上がれ"]
+	},
+		{
+		"name": "Fine Motion",
+		"leaderName": "Faimo",
+		"adjective": ["Faimo"],
+		"preferredVictoryType": "Cultural",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "Pleased to meet you. I'm Fine Motion. I look forward to making lots of memories here. Would you happen to know of a good local ramen spot?",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [32,169,92],
+		"innerColor": [238,83,64],
+		"uniqueName": "",
+		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion","[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "Basic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["Fairy Tale","Best Day Ever","麗走一直！ラーメン道","Every Day Is a New Day","Life Is Not Fair","Hope Is a Waking Dream","A Small Step Is Fine","Life Is Full of Wonders","Home Sweet Home","Love the Life You Live"],
+		"spyNames": ["Noble Seamair","Titania","麺華煌彩伝・極","Wave of Gratitude","Grma, Ramen ♪","Hello my clover","歴史も美食も余すところなく","ゆかし、きらめきの旅路"]
 	}
 ]

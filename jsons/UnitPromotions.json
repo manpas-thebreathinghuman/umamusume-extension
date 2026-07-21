@@ -14,5 +14,30 @@
     {
         "name": "Sumo Wrestler",
         "uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles"]
+    },
+    {
+        "name": "Mambo, Mambo~",
+        "uniques": []
+    },
+    {
+        "name": "Omatsuri Mambo~",
+        "prerequisites": ["Mambo, Mambo~"],
+        "uniques": ["[+47]% Strength"],
+        "unitTypes": ["Creature"],
+        "column": 2
+    },
+    {
+        "name": "Zabu zabu, yura yura",
+        "prerequisites": ["Omatsuri Mambo~"],
+        "uniques": ["[+59]% Strength"],
+        "unitTypes": ["Creature"],
+        "column": 3
+    },
+    {
+        "name": "Omatsuri Mambo!",
+        "prerequisites": ["Zabu zabu, yura yura"],
+        "uniques": ["[+59]% Strength","[1] Movement"],
+        "unitTypes": ["Creature"],
+        "column": 4
     }
 ]
