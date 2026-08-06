@@ -153,7 +153,7 @@
 		"uniques": ["[+1 Happiness, +2 Culture, +2 Food] from every [Fishing Boats]","[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion", "[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
 		"uniqueText": "[+1 Happiness, +2 Culture, +2 Food] from every [Fishing Boats]\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
 		"cities": ["Angling and Scheming","Break It Down!","A Cloud in the Blue Sky","Veiled in Cloud Cover","Fishing on Cloud Nine","Going for the Big Catch ☆","A Treat for Your Troubles","Kitty Combo","Partners in Crime"],
-		"spyNames": ["Reeling in the Big One","Soirée des Chatons","Foolproof Plan","Paint the Sky Red","ゆるっと、まにまに","幸福の匂いにまどろむ"]
+		"spyNames": ["Reeling in the Big One","Soirée des Chatons","渚のきまぐれオランジュ","Foolproof Plan","Paint the Sky Red","Bobbing with the Waves","幸福の匂いにまどろむ"]
 	},
 	{
 		"name": "Mayano Top Gun",
@@ -341,7 +341,7 @@
 		"cities": ["YUMMY☆SPEED!","Sugar Parade: Start!","A Giant Goddess","Big, Tough, and Super Buono! ☆","Memories of Chanko","Indulging in Big Dreams","Thanks for the Food!","A True Chanko","The Final Touch"],
 		"spyNames": ["Buono ☆ Alla Moda","Who Wants the First Bite?","Magic Night Garland","フォンデンテで笑って","甘～い浮き輪を召し上がれ"]
 	},
-		{
+	{
 		"name": "Fine Motion",
 		"leaderName": "Faimo",
 		"adjective": ["Faimo"],
@@ -371,5 +371,67 @@
 		"uniqueText": "Basic Melee and ranged units gain the [Turf Aptitude] promotion",
 		"cities": ["Fairy Tale","Best Day Ever","麗走一直！ラーメン道","Every Day Is a New Day","Life Is Not Fair","Hope Is a Waking Dream","A Small Step Is Fine","Life Is Full of Wonders","Home Sweet Home","Love the Life You Live"],
 		"spyNames": ["Noble Seamair","Titania","麺華煌彩伝・極","Wave of Gratitude","Grma, Ramen ♪","Hello my clover","歴史も美食も余すところなく","ゆかし、きらめきの旅路"]
+	},
+	{
+		"name": "Grass Wonder",
+		"leaderName": "Grass",
+		"adjective": ["Grass"],
+		"preferredVictoryType": "Cultural",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "My name is Grass Wonder. I was born an Umamusume, so I will take this path as far as I possibly can. Hee hee. ♪",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [58,52,172],
+		"innerColor": [227,73,63],
+		"uniqueName": "Where There's a Will, There's a Way",
+		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion","[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion","No damage penalty for wounded units <for [non-[Air]] units>","[+1 Culture] from every [Fishing Boats]","[+2 Culture] from every [Atoll]"],
+		"uniqueText": "Basic Melee and ranged units gain the [Turf Aptitude] promotion\nNo damage penalty for wounded units for [non-[Air]] units\n[+1 Culture] from every [Fishing Boats]\n[+2 Culture] from every [Atoll]",
+		"cities": ["Where There's a Will, There's a Way","Focused Mind","Superior Heal","Naginata Maiden's Dance","A Gentle Grace","Hidden Heart","Eyes of Fire","The Unyielding Ideal","My Way","In Step","Well-Earned Bond"],
+		"spyNames": ["Stone-Piercing Blue","Saintly Jade Cleric","Honor of the Azure Flame","Fairest Fleur","From Icy Blues to Verdant Hues","The Splendid Aftertaste of Good Tea"]
+	},
+	{
+		"name": "No Reason",
+		"leaderName": "Norizu",
+		"adjective": ["Norizu"],
+		"preferredVictoryType": "Domination",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [203,36,62],
+		"innerColor": [154,210,245],
+		"uniqueName": "",
+		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion","[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "Basic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["Deceive Thy Foe and Be Certain of Victory","武将ウマ娘、推して参る！","うつけ者、これはしたり！","食わせ者、かかって参れ！","大曲者、万事相成り！","切れ者、いざや下剋上！","傾奇者、家臣に恵まれん！","忠臣、褒美を遣わす！"],
+		"spyNames": ["Swift Crimson Armor","大胆不敵の兵よ"]
 	}
 ]

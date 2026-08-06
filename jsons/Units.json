@@ -83,5 +83,21 @@
 		"strength": 34,
 		"promotions": ["Mambo, Mambo~"],
 		"uniques": ["Unbuildable", "Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "No Reason's Samurai",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "No Reason",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"promotions": ["Shock I", "Great Generals II"],
+		"uniques": ["Can instantly construct a [Fishing Boats] improvement"],
+		"attackSound": "metalhit"
 	}
 ]
