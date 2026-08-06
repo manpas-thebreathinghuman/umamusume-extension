@@ -85,7 +85,7 @@
 		"uniques": ["Unbuildable", "Will not be displayed in Civilopedia"]
 	},
 	{
-		"name": "No reason's Samurai",
+		"name": "No Reason's Samurai",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
 		"uniqueTo": "No Reason",

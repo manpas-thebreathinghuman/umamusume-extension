@@ -399,7 +399,7 @@
 		"innerColor": [227,73,63],
 		"uniqueName": "Where There's a Will, There's a Way",
 		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion","[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion","No damage penalty for wounded units <for [non-[Air]] units>","[+1 Culture] from every [Fishing Boats]","[+2 Culture] from every [Atoll]"],
-		"uniqueText": "Basic Melee and ranged units gain the [Turf Aptitude] promotion.\nNo damage penalty for wounded units for [non-[Air]] units\n[+1 Culture] from every [Fishing Boats]\n[+2 Culture] from every [Atoll]",
+		"uniqueText": "Basic Melee and ranged units gain the [Turf Aptitude] promotion\nNo damage penalty for wounded units for [non-[Air]] units\n[+1 Culture] from every [Fishing Boats]\n[+2 Culture] from every [Atoll]",
 		"cities": ["Where There's a Will, There's a Way","Focused Mind","Superior Heal","Naginata Maiden's Dance","A Gentle Grace","Hidden Heart","Eyes of Fire","The Unyielding Ideal","My Way","In Step","Well-Earned Bond"],
 		"spyNames": ["Stone-Piercing Blue","Saintly Jade Cleric","Honor of the Azure Flame","Fairest Fleur","From Icy Blues to Verdant Hues","The Splendid Aftertaste of Good Tea"]
 	},
