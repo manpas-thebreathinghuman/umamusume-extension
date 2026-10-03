@@ -180,9 +180,9 @@
 
 		"outerColor": [245,125,56],
 		"innerColor": [255,200,69],
-		"uniqueName": "",
+		"uniqueName": "Free Spirit",
 		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion", "[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
-		"uniqueText": "Basic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"uniqueText": "1 Great person point for every great people after discovering [Writing]\n 2 specialist slots for every specialist in Capital after generating 4 different Great People type at least once\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
 		"cities": ["Flashy☆Landing","1st Place Kiss☆","Flowery☆Maneuver","HOP STEP♪LOCK ON!","Scramble the Prodigy!","Preflight Troubles?","It's Time for Takeoff☆","The Runway is Clear!","Barrel Rolls Over Homework☆","Our Blue Beluga","Spread Your Wings and Fly!"],
 		"spyNames": ["Scarmble☆Zone","Sunlight Bouquet","Cute + Cute = ?","Party Formation","Rocking☆MewMeow","Chill chill night*"]
 	},
@@ -433,5 +433,67 @@
 		"uniqueText": "Basic Melee and ranged units gain the [Turf Aptitude] promotion",
 		"cities": ["Deceive Thy Foe and Be Certain of Victory","武将ウマ娘、推して参る！","うつけ者、これはしたり！","食わせ者、かかって参れ！","大曲者、万事相成り！","切れ者、いざや下剋上！","傾奇者、家臣に恵まれん！","忠臣、褒美を遣わす！"],
 		"spyNames": ["Swift Crimson Armor","大胆不敵の兵よ"]
+	},
+	{
+		"name": "Agnes Tachyon",
+		"leaderName": "Tachyon",
+		"adjective": ["Tachyon"],
+		"preferredVictoryType": "Scientific",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "I'm Agnes Tachyon. You wouldn't be interested in finding out just how fast an Umamusume can run, would you? I just so happen to be looking for a guinea pig...",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [53,178,182],
+		"innerColor": [226,232,104],
+		"uniqueName": "",
+		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion","[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion"],
+		"uniqueText": "Basic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["U=ma2","Introduction to Physiology","Summer Halation","Tachyon Potential","The Zeigarnik Effect","Gordion Knot","Event Horizon","Tachyon","Dream or Reality?","Nourishment or Cuisine?","Test Subject or Partner?"],
+		"spyNames": ["tach-nology","Lunatic Lab","Σ Experiment","Experimental Studies on Subject A","Q≠0","嗚呼素晴らしき甘味哉","無辺際ラボラトリィ"]
+	},
+	{
+		"name": "Nakayama Festa",
+		"leaderName": "Nakayama",
+		"adjective": ["Nakayama"],
+		"preferredVictoryType": "Domination",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "The name's Nakayama Festa. I need a lot more than a lukewarm race to thrill me, get it? It's gotta be something hotter—hot enough to burn!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."], 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [129,69,63],
+		"innerColor": [35,97,146],
+		"uniqueName": "Trueborn Gambler",
+		"uniques": ["[Sword] units gain the [Turf Aptitude] promotion", "[Gunpowder] units gain the [Turf Aptitude] promotion","[Archery] units gain the [Turf Aptitude] promotion", "[Ranged Gunpowder] units gain the [Turf Aptitude] promotion","Free Great Person<upon entering a new era><with [3]% chance>","Free Great Person<upon declaring friendship><with [3]% chance>","Free Great Person<upon entering a Golden Age><with [3]% chance>","Free Great Person<upon conquering a city><with [3]% chance>","Free Great Person<upon declaring war on [all] Civilizations><with [3]% chance>","Free Great Person<upon discovering [all] technology><with [3]% chance>","Free Great Person<upon founding a city><with [3]% chance>"],
+		"uniqueText": "1/37.8 chance to get a great person when doing any of the following:\nentering a new era\ndeclaring friendship\nentering a golden age\ndeclaring war\ndiscovering a tech\nconquering a city\nfounding a city\nBasic Melee and ranged units gain the [Turf Aptitude] promotion",
+		"cities": ["Laugh at the Odds","Wager on the Holy Night Stars","The Day I Went off the Deep End","A Golden Ray in Clouded Skies","What Strokes the Fire","Through the Mud to the Morrow","The Rumor Mill's Gonna Spin","My Way, No Matter Where It Leads","Flirt with Danger, Dance with Death"],
+		"spyNames": ["Desperate Measures","Festive Play","43, 8, 1","Trusting the Dice","鉄火場に咲く菫"]
 	}
 ]

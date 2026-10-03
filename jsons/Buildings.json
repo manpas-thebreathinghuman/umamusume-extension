@@ -35,5 +35,77 @@
 		"cost": 70,
 		"gold": 1,
 		"percentStatBonus": {"happiness": 5}
+	},
+	{
+		"name": "Tachyon's lab",
+		"uniqueTo": "Agnes Tachyon",
+		"replaces": "University",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 66, "happiness": -10},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[+3 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Grand Opera",
+		"uniqueTo": "T.M. Opera O",
+		"replaces": "Hermitage",
+		"cost": 125,
+		"percentStatBonus": {"culture": 50},
+		"culture": 5,
+		"isNationalWonder": true,
+		"uniques": ["[-90]% Unhappiness from [Population] [in this city]","Only available <if [Opera House] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
+		"requiredTech": "Architecture"
+	},
+	{
+		"name": "Pa1ace",
+		"uniqueTo": "Mayano Top Gun",
+		"replaces": "Palace",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"greatPersonPoints": {"Great Scientist": 1, "Great Admiral": 1, "Great Artist": 1, "Great Engineer":1, "Great General": 1, "Great Merchant": 1, "Great Prophet": 1},
+		"cityStrength": 2.5,
+		"cost": 0,
+		"uniques": ["Will not be displayed in Civilopedia","Indicates the capital city"]
+	},
+	{
+		"name": "Great Admiral Got",
+		"uniqueTo": "Mayano Top Gun",
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Horses]"]
+	},
+	{
+		"name": "Great Artist Got",
+		"uniqueTo": "Mayano Top Gun",
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Horses]"]
+	},
+	{
+		"name": "Great Engineer Got",
+		"uniqueTo": "Mayano Top Gun",
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Horses]"]
+	},
+	{
+		"name": "Great General Got",
+		"uniqueTo": "Mayano Top Gun",
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Horses]"]
+	},
+	{
+		"name": "Great Merchant Got",
+		"uniqueTo": "Mayano Top Gun",
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Horses]"]
+	},
+	{
+		"name": "Great Prophet Got",
+		"uniqueTo": "Mayano Top Gun",
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Horses]"]
+	},
+	{
+		"name": "Great Scientist Got",
+		"uniqueTo": "Mayano Top Gun",
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Horses]"]
 	}
 ]
